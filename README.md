@@ -22,4 +22,4 @@ Aplicația este destinată tuturor tipurilor de utilizatori, pentru că îndepli
 
 # Aplicații similare
 
-Există câteva aplicații asemănătoare cu cea creată de noi, acestea fiind [Spotify](https://www.spotify.com/ro/), [last.fm](https://www.last.fm/) și [Shazam](https://www.shazam.com/). Acestea două din urmă oferă posibilitatea utilizatorilor de a asculta anumite melodii pe baza unor criterii selectate de ei, fără a fi nevoiți să își creeze un cont, în timp ce Spotify oferă această posibilitate doar celor care și-au creat deja un cont de utilizator.
+Există câteva aplicații asemănătoare cu cea creată de noi, acestea fiind [MusicFeedz](https://musicfeedz.com/), [Standoffish](http://standoffish.com/) și [doob.fm](http://www.doob.fm/). **MusicFeedz** permite utilizatorilor să vizualizeze cele mai recente versuri ale artiștilor preferați, cele mai noi albume și piese și le trimite notificări; **Standoffish** este o aplicație care creează liste de redare rapide pe **YouTube** din liste text; iar **doob.fm** este un site gratuit de redare de muzică cu funcții personalizate de radio online.
