@@ -23,3 +23,15 @@ Aplicația este destinată tuturor tipurilor de utilizatori, pentru că îndepli
 # Aplicații similare
 
 Există câteva aplicații asemănătoare cu cea creată de noi, acestea fiind [MusicFeedz](https://musicfeedz.com/), [Standoffish](http://standoffish.com/) și [doob.fm](http://www.doob.fm/). **MusicFeedz** permite utilizatorilor să vizualizeze cele mai recente versuri ale artiștilor preferați, cele mai noi albume și piese și le trimite notificări. **Standoffish** este o aplicație care creează liste de redare rapide pe **YouTube** din liste text, iar **doob.fm** este un site gratuit de redare de muzică cu funcții personalizate de radio online.
+
+
+# Mock-ups
+
+
+![alt text](https://github.com/georgianabrailoiu/webtech-profile/blob/master/images/45227999_567981793637643_7356565562505297920_n.jpg "Interface")
+
+![alt text](https://github.com/georgianabrailoiu/webtech-profile/blob/master/images/45186793_2483953278497782_3167589267572523008_n.jpg)
+
+![alt text](https://github.com/georgianabrailoiu/webtech-profile/blob/master/images/45196168_532931310515882_2375688269892419584_n.jpg)
+
+![alt text](https://github.com/georgianabrailoiu/webtech-profile/blob/master/images/45066167_259943724704862_693528194854158336_n.jpg "CEVA" )
